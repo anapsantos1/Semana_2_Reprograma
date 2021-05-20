@@ -6,9 +6,6 @@
 
   ###### Exercícios para praticar resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)
 
-  ![image-20210519201627114](C:\Users\Paula\AppData\Roaming\Typora\typora-user-images\image-20210519201627114.png)
-
   
 
-  
-
+  ![alt text](C:\Users\Paula\Desktop\Reprograma\Exer_Sem2_Reprograma\image-20210519201627114.png)
