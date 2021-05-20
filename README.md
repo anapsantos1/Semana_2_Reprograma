@@ -8,4 +8,4 @@
 
   
 
-  ![alt text](C:\Users\Paula\Desktop\Reprograma\Exer_Sem2_Reprograma\image-20210519201627114.png)
+  ![alt text](https://github.com/anapsantos1/Semana_2_Reprograma/blob/main/image-20210519201627114.png)
